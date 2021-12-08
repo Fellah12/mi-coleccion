@@ -1,0 +1,23 @@
+{
+  "name": "DuckStatuto #6",
+  "description": "Just chilling",
+  "image": "/6.png",
+  "dna": "6911c01eac6f16190094051a315f853b8506f35f",
+  "edition": 6,
+  "date": 1638991469664,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "verde"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Head"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
